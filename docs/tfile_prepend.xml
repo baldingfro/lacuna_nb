@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+  <page id="698008001" title="Lacuna Notebook General Info" descr="" voice="no">
+    <!-- In-Encyclopedia Category Name -->
+    <t id="99">Lacuna Notebook</t>
+    <!-- Left Sidebar Button Name -->
+    <t id="2400">Lacuna Notebook</t>
+    <t id="2401">The Lacuna Notebook contains community provided information to further explain game topics not covered in the in-game documentation</t>
+    <!-- Detail/References Pane Title-->
+    <t id="2404">References</t>
+    <!-- Top Level Menu Button Name -->
+    <t id="8104">Lacuna Notebook</t>
+    <t id="8107">The Lacuna Notebook contains knowledge that you have acquired and lists historic events on a timeline.</t>
+    <!-- Menu Title -->
+    <t id="9000">Encyclopedia + Lacuna Notebook</t>
+  </page>

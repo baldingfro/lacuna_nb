@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addon name="lacuna_nb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="../../ui/core/addon.xsd">
+  <environment type="menus">
+    <file name="ui/addons/ego_detailmonitor/menu_lacuna_nb.lua" />
+    <file name="ui/addons/ego_detailmonitor/menu_lnb_ship_comparison.lua" />
+    <file name="ui/addons/ego_detailmonitor/menu_lnb_timeline.lua" />
+    <dependency name="ego_detailmonitor" />
+  </environment>
+</addon>

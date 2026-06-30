@@ -1,0 +1,5 @@
+{
+  "prepend_file": "tfile_prepend.xml",
+  "markdown_dir": "./md_files",
+  "output_file": "../t/0001.xml"
+}
